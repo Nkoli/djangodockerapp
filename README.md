@@ -1,4 +1,4 @@
-## Django app containerized and deployed with Docker, using an nginx docker container as the reverse proxy
+## Basic django app containerized and deployed with Docker, using an nginx docker container as the reverse proxy
 
 ### Steps
 
